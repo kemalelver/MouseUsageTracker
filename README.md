@@ -3,6 +3,7 @@ This code only tested on Windows 11.
 Measure mouse usage time with this tool. Mouse clicks, scroll wheel and mouse movements are measured.
 
 
+![alt text](https://iili.io/2QpOgrg.png "tray")
 # Install Rust:
 https://doc.rust-lang.org/cargo/getting-started/installation.html 
 
