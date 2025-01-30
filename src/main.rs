@@ -116,7 +116,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             // Locking the tray before accessing its inner parts (await the lock)
             let mut tray = tray_clone.lock().await;
             tray.inner_mut()
-                .set_label(&usage_duration_hours.to_string(), label_id)
+                .set_label( &format!("{:.4} hours", usage_duration_hours), label_id)
                 .unwrap();
 
                 tokio::time::sleep(tokio::time::Duration::from_secs(5)).await;
