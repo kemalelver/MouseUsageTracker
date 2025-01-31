@@ -22,3 +22,7 @@ Program will create a SQLite Database at .\TrackMouseUsage\target\release\mouse_
    *  *OR*
    * Install https://sqlitebrowser.org/ SQLite Browser and set the last entry's usage_duration_seconds to 0.
 2. Start the program.
+
+# Autorun with  Task Scheduler
+![alt text](https://freeimage.host/i/2ZFsUg9 "task")
+   Start-Process -FilePath "**enter your own file path**   like this C:\TrackMouse\target\release\TrackMouse.exe" -WindowStyle Hidden
