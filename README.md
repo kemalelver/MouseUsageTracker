@@ -29,5 +29,5 @@ Program will create a SQLite Database at .\TrackMouseUsage\target\release\mouse_
 ![alt text](https://iili.io/2ZFsUg9.png "task")
 
 ```
-Start-Process -FilePath "**enter your own file path**   like this C:\TrackMouse\target\release\TrackMouse.exe" -WindowStyle Hidden`
+Start-Process -FilePath "**enter your own file path**   like this C:\TrackMouse\target\release\TrackMouse.exe" -WindowStyle Hidden
 ```
