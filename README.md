@@ -12,7 +12,7 @@ Download or Pull codebase.
 
 At TrackMouseUsage folder open terminal.
 ```
-cargo run --release
+cargo build --release
 ```
 
 You can start program at .\TrackMouseUsage\target\release\TrackMouse.exe
