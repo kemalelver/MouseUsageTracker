@@ -7,7 +7,7 @@ Measure mouse usage time with this tool. Mouse clicks, scroll wheel and mouse mo
 # Install Rust:
 https://doc.rust-lang.org/cargo/getting-started/installation.html 
 
-# Compile Code:
+# Build Code:
 Download or Clone codebase.
 
 At TrackMouseUsage folder open terminal.
