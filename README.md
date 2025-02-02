@@ -6,6 +6,7 @@ Measure mouse usage time with this tool. Mouse clicks, scroll wheel and mouse mo
 ![alt text](https://iili.io/2QpOgrg.png "tray")
 # Install Rust:
 https://doc.rust-lang.org/cargo/getting-started/installation.html 
+select 3. option at beginning
 
 # Build Code:
 Download or Clone codebase.
